@@ -2,7 +2,7 @@
 Repository For WebHosting
 There are these websites that are all on the same hosting platform and it says their trust score is low I dont know why they seem like legitimate websites check out all of the websites owned by this same company do you think they are fraudelent sites or websites trying to commit fraud?
 
-Capitalgroupenterprises.com
+https://Capitalgroupenterprises.com
 insurancebrokerresources.com
 techempiresolutions.com
 cookingmo.com
